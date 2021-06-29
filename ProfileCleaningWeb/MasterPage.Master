@@ -1,0 +1,54 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="ProfileCleaningWeb.MasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>Less-Ego Cleaning</title>
+
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css" />
+	<link rel="stylesheet" href="css/style.css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+
+		<input type="checkbox" id="check" />
+		<!--header start-->
+		<header>
+			<label  for="check">
+				<i class="fas fa-bars" id="sidebar_btn"></i>
+			</label>
+		<div class="left_area">
+			<h3>Less-Ego <span>Cleaning</span></h3>
+		</div>
+		<div class="right_area">
+			<a href="#" class="logout_btn">Logout</a>
+		</div>
+		</header>
+		<!--header end-->
+
+		<!--sidebar start-->
+		<div class="sidebar">
+			<center>
+				<img src="images/NavImg.jpg" class="profile_image" alt="" />
+				<h4>ONLY THE BEST</h4>
+			</center>
+			<a href="#"><i class="fas fa-desktop"></i><span>Dashboard</span></a>
+			<a href="#"><i class="fas fa-sign-in-alt"></i><span>Login</span></a>
+			<a href="#"><i class="fas fa-images"></i><span>Gallery</span></a>
+			<a href="#"><i class="fas fa-info-circle"></i><span>About</span></a>
+			<a href="#"><i class="fa fa-question-circle"></i><span>FAQ</span></a>
+			<a href="#"><i class="fa fa-phone-square"></i><span>Contact us</span></a>
+
+		</div>
+		<!--sidebar end-->
+
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

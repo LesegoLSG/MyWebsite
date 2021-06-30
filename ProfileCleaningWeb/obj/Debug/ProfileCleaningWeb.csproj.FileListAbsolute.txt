@@ -8,7 +8,7 @@ C:\Users\lesego\Pictures\ProfileCleaningWeb\ProfileCleaningWeb\obj\Debug\Profile
 C:\Users\lesego\Pictures\ProfileCleaningWeb\MyWebsite\ProfileCleaningWeb\bin\ProfileCleaningWeb.dll.config
 C:\Users\lesego\Pictures\ProfileCleaningWeb\MyWebsite\ProfileCleaningWeb\bin\ProfileCleaningWeb.dll
 C:\Users\lesego\Pictures\ProfileCleaningWeb\MyWebsite\ProfileCleaningWeb\bin\ProfileCleaningWeb.pdb
-C:\Users\lesego\Pictures\ProfileCleaningWeb\MyWebsite\ProfileCleaningWeb\obj\Debug\ProfileCleaningWeb.csprojAssemblyReference.cache
 C:\Users\lesego\Pictures\ProfileCleaningWeb\MyWebsite\ProfileCleaningWeb\obj\Debug\ProfileCleaningWeb.csproj.CoreCompileInputs.cache
 C:\Users\lesego\Pictures\ProfileCleaningWeb\MyWebsite\ProfileCleaningWeb\obj\Debug\ProfileCleaningWeb.dll
 C:\Users\lesego\Pictures\ProfileCleaningWeb\MyWebsite\ProfileCleaningWeb\obj\Debug\ProfileCleaningWeb.pdb
+C:\Users\lesego\Pictures\ProfileCleaningWeb\MyWebsite\ProfileCleaningWeb\obj\Debug\ProfileCleaningWeb.csprojAssemblyReference.cache

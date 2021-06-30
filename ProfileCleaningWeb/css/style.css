@@ -2,7 +2,7 @@ body {
 	margin: 0;
 	padding: 0;
 	font-family: "Roboto", sans-serif;
-	background-color:black;
+	/*background-color:black;*/
 }
 
 
@@ -28,7 +28,7 @@ header {
 
 .logout_btn {
 	padding: 5px;
-	background: #2F323A;
+	background: #4800ff;
 	text-decoration: none;
 	float: right;
 	margin-top: -30px;
@@ -120,4 +120,42 @@ label #sidebar_btn {
 		width: 80px;
 	}
 	
+	/*The form container start*/
+.form-container {
+	width: 435px;
+	height: auto;
+	padding: 20px 30px;
+	background-color: #fff;
+	border-radius: 10px;
+	box-shadow: 0 0 10px 0 #000;
+	margin: auto;
+}
+
+ul.list {
+	list-style-type: none;
+	text-align: center;
+}
+
+	ul.list li {
+		width: 300px;
+		margin-bottom: 10px;
+	}
+
+		ul.list li input {
+			width: 250px;
+			text-align: center;
+			padding: 8px 0px;
+			border: none;
+			background-color: #d3d3d3;
+			border-radius: 5px;
+		}
+
+			ul.list li input[type="button"] {
+				background-color:aqua;
+				color: #fff;
+			}
+
+		ul.list li:nth-child(5) {
+			color:darkblue;
+		}
 

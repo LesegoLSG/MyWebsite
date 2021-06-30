@@ -120,7 +120,7 @@ label #sidebar_btn {
 		width: 80px;
 	}
 	
-	/*The form container start*/
+	/*The form container for login start*/
 .form-container {
 	width: 435px;
 	height: auto;
@@ -158,4 +158,35 @@ ul.list {
 		ul.list li:nth-child(5) {
 			color:darkblue;
 		}
+/*The form container for login end*/
 
+/*About page start*/
+.about-form {
+	align-content: center;
+	width: 1000px;
+	height: 400px;
+	padding: 20px 30px;
+	background-color: #fff;
+	border-radius: 10px;
+	box-shadow: 0 0 10px 0 #000;
+	margin: auto;
+}
+
+#aboutus h2 {
+	margin-bottom: 25px;
+}
+
+.img-wrap {
+	width: 100%;
+}
+
+.img-wrap img {
+	width: 130px;
+	height: auto;
+	background-color: #808080;
+	border-radius: 10px;
+	box-shadow: 0 0 10px 0 #000;
+	margin: auto;
+	text-align: left;
+}
+/*About page end*/

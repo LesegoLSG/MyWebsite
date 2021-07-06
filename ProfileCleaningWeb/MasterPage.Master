@@ -35,10 +35,10 @@
 				<img src="images/NavImg.jpg" class="profile_image" alt="" />
 				<h4>ONLY THE BEST</h4>
 			</center>
-			<a href="#"><i class="fas fa-desktop"></i><span>Dashboard</span></a>
-			<a href="#"><i class="fas fa-sign-in-alt"></i><span>Login</span></a>
-			<a href="#"><i class="fas fa-images"></i><span>Gallery</span></a>
-			<a href="#"><i class="fas fa-info-circle"></i><span>About</span></a>
+			<a href="HomePage.aspx"><i class="fas fa-desktop"></i><span>Dashboard</span></a>
+			<a href="Login.aspx"><i class="fas fa-sign-in-alt"></i><span>Login</span></a>
+			<a href="GalleryPage.aspx"><i class="fas fa-images"></i><span>Gallery</span></a>
+			<a href="AboutUsPage.aspx"><i class="fas fa-info-circle"></i><span>About</span></a>
 			<a href="#"><i class="fa fa-question-circle"></i><span>FAQ</span></a>
 			<a href="#"><i class="fa fa-phone-square"></i><span>Contact us</span></a>
 

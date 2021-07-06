@@ -7,6 +7,12 @@
 	<br />
 	<br />
 	<div class="form-container">
+		<br />
+		<br />
+		<br />
+		<br />
+		<br />
+
 		<ul class="list">
 			<li><h3>Member Login</h3></li>
 			<li><asp:TextBox ID="email" placeholder="Email Address" runat="server"></asp:TextBox></li>	

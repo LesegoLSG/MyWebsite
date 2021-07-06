@@ -11,3 +11,4 @@ C:\Users\lesego\Pictures\ProfileCleaningWeb\MyWebsite\ProfileCleaningWeb\bin\Pro
 C:\Users\lesego\Pictures\ProfileCleaningWeb\MyWebsite\ProfileCleaningWeb\obj\Debug\ProfileCleaningWeb.csproj.CoreCompileInputs.cache
 C:\Users\lesego\Pictures\ProfileCleaningWeb\MyWebsite\ProfileCleaningWeb\obj\Debug\ProfileCleaningWeb.dll
 C:\Users\lesego\Pictures\ProfileCleaningWeb\MyWebsite\ProfileCleaningWeb\obj\Debug\ProfileCleaningWeb.pdb
+C:\Users\lesego\Pictures\ProfileCleaningWeb\MyWebsite\ProfileCleaningWeb\obj\Debug\ProfileCleaningWeb.csprojAssemblyReference.cache

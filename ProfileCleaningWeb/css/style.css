@@ -2,7 +2,7 @@ body {
 	margin: 0;
 	padding: 0;
 	font-family: "Roboto", sans-serif;
-	/*background-color:black;*/
+	background-color:black;
 }
 
 
@@ -122,7 +122,7 @@ label #sidebar_btn {
 	
 	/*The form container for login start*/
 .form-container {
-	width: 435px;
+	width: 400px;
 	height: auto;
 	padding: 20px 30px;
 	background-color: #fff;

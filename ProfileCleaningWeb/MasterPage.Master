@@ -19,7 +19,7 @@
 	<form id="form2" runat="server">
 		<div class="top-bar">
 			<img src="images/Logo2"  id="imgs"/>
-			<a href="#" type="button">Logout</a>
+			<a href="#" type="button">Logouts</a>
 		</div>
 		
         <div>

@@ -6,56 +6,22 @@
 <head runat="server">
     <title>Less-Ego Cleaning</title>
 
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css" />
+	
 	<link rel="stylesheet" href="css/style.css" />
   
-	<link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" />
 	
-	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" />
-	
-	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
-	
-	<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" ></script>
-    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" ></script>
-	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" ></script>
 
 	<asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
 </head>
 <body>
-    <form id="form1" runat="server">
 
-		<input type="checkbox" id="check" />
-		<!--header start-->
-		<header>
-			<label  for="check">
-				<i class="fas fa-bars" id="sidebar_btn"></i>
-			</label>
-		<div class="left_area">
-			<h3>Less-Ego <span>Cleaning</span></h3>
+	<form id="form2" runat="server">
+		<div class="top-bar">
+			<img src="images/Logo2"  id="imgs"/>
+			<a href="#" type="button">Logout</a>
 		</div>
-		<div class="right_area">
-			<a href="#" class="logout_btn">Logout</a>
-		</div>
-		</header>
-		<!--header end-->
-
-		<!--sidebar start-->
-		<div class="sidebar">
-			<center>
-				<img src="images/NavImg.jpg" class="profile_image" alt="" />
-				<h4>ONLY THE BEST</h4>
-			</center>
-			<a href="HomePage.aspx"><i class="fas fa-desktop"></i><span>Dashboard</span></a>
-			<a href="Login.aspx"><i class="fas fa-sign-in-alt"></i><span>Login</span></a>
-			<a href="GalleryPage.aspx"><i class="fas fa-images"></i><span>Gallery</span></a>
-			<a href="AboutUsPage.aspx"><i class="fas fa-info-circle"></i><span>About</span></a>
-			<a href="#"><i class="fa fa-question-circle"></i><span>FAQ</span></a>
-			<a href="#"><i class="fa fa-phone-square"></i><span>Contact us</span></a>
-
-		</div>
-		<!--sidebar end-->
-
+		
         <div>
             <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
             </asp:ContentPlaceHolder>

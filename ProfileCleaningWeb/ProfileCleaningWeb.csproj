@@ -95,6 +95,7 @@
     <Content Include="images\Image3.jpg" />
     <Content Include="images\Image4.jpg" />
     <Content Include="images\Image5.jpg" />
+    <Content Include="images\Logo2.png" />
     <Content Include="images\NavImg.jpg" />
     <Content Include="images\pattern1.png" />
     <Content Include="images\preloader.gif" />

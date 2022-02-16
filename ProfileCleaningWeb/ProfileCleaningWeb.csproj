@@ -81,6 +81,7 @@
     <Content Include="css\pink.css" />
     <Content Include="css\red.css" />
     <Content Include="css\style.css" />
+    <Content Include="css\style2.css" />
     <Content Include="css\violet.css" />
     <Content Include="css\yellow.css" />
     <Content Include="fonts\fontawesome-webfont.svg" />

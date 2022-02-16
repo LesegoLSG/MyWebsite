@@ -7,7 +7,7 @@
     <title>Less-Ego Cleaning</title>
 
 	
-	<link rel="stylesheet" href="css/style.css" />
+	<link rel="stylesheet" href="css/style2.css" />
   
 	
 
@@ -17,10 +17,10 @@
 <body>
 
 	<form id="form2" runat="server">
-		<div class="top-bar">
-			<img src="images/Logo2"  id="imgs"/>
+		<header class="top-bar">
+			<img src="images/Logo2.png"  id="imgs"/>
 			<a href="#" type="button">Logouts</a>
-		</div>
+		</header>
 		
         <div>
             <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">

@@ -103,6 +103,7 @@
     <Content Include="js\app.js" />
     <Content Include="js\bootstrap.min.js" />
     <Content Include="js\classie.js" />
+    <Content Include="js\index.js" />
     <Content Include="js\jquery.counterup.min.js" />
     <Content Include="js\jquery.easing.min.js" />
     <Content Include="js\jquery.min.js" />

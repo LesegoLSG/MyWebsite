@@ -17,10 +17,25 @@
 <body>
 
 	<form id="form2" runat="server">
-		<header class="top-bar">
+		<header class="nav-top">
 			<img src="images/Logo2.png"  id="imgs"/>
-			<a href="#" type="button">Logouts</a>
+			<a href="#" type="button">Logout</a>
 		</header>
+
+		<div id="sidebar">
+			<div class="toggle-btn" onclick="togglesidebar()">
+				<span></span>
+				<span></span>
+				<span></span>
+			</div>
+			<ul>
+				<li>Home</li>
+				<li>About</li>
+				<li>Contact</li>
+			</ul>
+		</div>
+
+		<script src="js/index.js"></script>
 		
         <div>
             <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">

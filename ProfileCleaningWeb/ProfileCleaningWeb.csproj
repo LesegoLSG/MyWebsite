@@ -91,12 +91,16 @@
     <Content Include="HomePage.aspx" />
     <Content Include="images\bg-4.jpg" />
     <Content Include="images\bg-5.jpg" />
+    <Content Include="images\Cleaning_logo.png" />
     <Content Include="images\Image1.jpg" />
     <Content Include="images\Image2.jpg" />
     <Content Include="images\Image3.jpg" />
     <Content Include="images\Image4.jpg" />
     <Content Include="images\Image5.jpg" />
+    <Content Include="images\Logo.png" />
     <Content Include="images\Logo2.png" />
+    <Content Include="images\Logos.png" />
+    <Content Include="images\loo.png" />
     <Content Include="images\NavImg.jpg" />
     <Content Include="images\pattern1.png" />
     <Content Include="images\preloader.gif" />

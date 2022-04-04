@@ -70,8 +70,28 @@ header {
 	padding-bottom: 100px;
 }
 
+/*Start Gallery*/
+.wrapper {
+	display:grid;
+	grid-template-columns:repeat(auto-fit,minmax(400px,1fr));
+	grid-gap:5px;
+}
+
+.box img {
+	width:100%;
+	border-radius:20px;
+}
+
+.box {
+	padding: 10px;
+}
+
+/*End Gallery*/
+
 	
 /* start footer*/
+
+/*
 .footer-bottom {
 	background-color:#000;
 	position:relative;
@@ -79,6 +99,7 @@ header {
 	margin-top:-100px;
 	clear:both;
 }
+	*/
 /*End of footer*/
 
 

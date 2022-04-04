@@ -18,12 +18,13 @@
 
 	<form id="form2" runat="server">
 		<header>
-			<img src="images/Logo2.png"  id="imgs"/>
+			<img src="images/Cleaning_logo.png"  id="imgs"/>
 			<nav>
 				<ul class="nav-links">
 					<li><a href="#">Services</a></li>
 					<li><a href="#">Project</a></li>
 					<li><a href="#">About</a></li>
+					<li><a href="GalleryPage.aspx">Gallery</li>
 				</ul>
 			</nav>
 			<a href="#" type="button" id="logout-btn">Logout</a>
